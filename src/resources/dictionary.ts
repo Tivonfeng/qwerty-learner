@@ -3,17 +3,17 @@ import { calcChapterCount } from '@/utils'
 
 //编程字典
 const programming: DictionaryResource[] = [
-  {
-    id: 'coder',
-    name: 'Coder Dict',
-    description: '程序员常见单词词库',
-    category: '代码练习',
-    tags: ['通用'],
-    url: '/dicts/it-words.json',
-    length: 1700,
-    language: 'code',
-    languageCategory: 'code',
-  },
+  // {
+  //   id: 'coder',
+  //   name: 'Coder Dict',
+  //   description: '程序员常见单词词库',
+  //   category: '代码练习',
+  //   tags: ['通用'],
+  //   url: '/dicts/it-words.json',
+  //   length: 1700,
+  //   language: 'code',
+  //   languageCategory: 'code',
+  // },
   {
     id: 'childCode',
     name: '少儿 Python',

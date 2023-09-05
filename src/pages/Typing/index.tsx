@@ -51,7 +51,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const id = currentDictId
     if (!(id in idDictionaryMap)) {
-      setCurrentDictId('childCode')
+      setCurrentDictId('childCode002')
     }
   }, [currentDictId, setCurrentDictId])
 
