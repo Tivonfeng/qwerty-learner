@@ -24,9 +24,39 @@
 		]
 	},
 	{
-		"name": "temp",
+		"name": "temporary",
 		"trans": [
-			"临时变量的简写"
+			"临时,一般用于临时变量，通常会简写为temp"
+		]
+	},
+	{
+		"name": "number",
+		"trans": [
+			"数字，通常简写为num"
+		]
+	},
+	{
+		"name": "score",
+		"trans": [
+			"得分"
+		]
+	},
+	{
+		"name": "count",
+		"trans": [
+			"统计"
+		]
+	},
+	{
+		"name": "money",
+		"trans": [
+			"钱"
+		]
+	},
+	{
+		"name": "status",
+		"trans": [
+			"状态"
 		]
 	}
 ]
