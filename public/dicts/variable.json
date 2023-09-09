@@ -10,5 +10,23 @@
 		"trans": [
 			"年龄"
 		]
+	},
+	{
+		"name": "height",
+		"trans": [
+			"身高"
+		]
+	},
+	{
+		"name": "weight",
+		"trans": [
+			"体重"
+		]
+	},
+	{
+		"name": "temp",
+		"trans": [
+			"临时变量的简写"
+		]
 	}
 ]
