@@ -38,6 +38,18 @@ const programming: DictionaryResource[] = [
   },
 
   {
+    id: 'childCode001',
+    name: '变量常用起名',
+    description: '变量常用起名单词',
+    category: '代码练习',
+    tags: ['Python', 'C++'],
+    url: 'dicts/variable.json',
+    length: 19,
+    language: 'en',
+    languageCategory: 'code',
+  },
+
+  {
     id: 'childCode003',
     name: '基础C++',
     description: '基础C++常见词',
