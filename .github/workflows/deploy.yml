@@ -1,5 +1,8 @@
 name: Deployment
-on: workflow_dispatch
+on:
+  push:
+    paths-ignore:
+      - 'build/**'
 
 jobs:
   deploy:
