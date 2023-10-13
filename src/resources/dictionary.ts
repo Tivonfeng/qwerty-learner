@@ -38,10 +38,16 @@ const programming: DictionaryResource[] = [
   },
 
   {
+    id: 'childCode002',
+    name: '少儿 Python Turtle',
+    description: '少儿 Python Turtle 常见词',
     id: 'childCode001',
     name: '变量常用起名',
     description: '变量常用起名单词',
     category: '代码练习',
+    tags: ['少儿编程', 'Python'],
+    url: '/dicts/Child_python_turtle_code.json',
+    length: 27,
     tags: ['全部', 'Python', 'C++'],
     url: 'dicts/variable.json',
     length: 19,
@@ -51,6 +57,8 @@ const programming: DictionaryResource[] = [
 
   {
     id: 'childCode003',
+    name: '少儿 C++',
+    description: '少儿 C++ 常见词',
     name: '基础C++',
     description: '基础C++常见词',
     category: '代码练习',
