@@ -1,8 +1,26 @@
 [
     {
+        "name": "print",
+        "trans": [
+            "打印、输出"
+        ]
+    },
+    {
+        "name": "input",
+        "trans": [
+            "输入"
+        ]
+    },
+    {
         "name": "if",
         "trans": [
             "如果"
+        ]
+    },
+    {
+        "name": "elif",
+        "trans": [
+            "否则如果"
         ]
     },
     {
@@ -19,7 +37,7 @@
     },
     {
         "name": "for",
-        "trans":[
+        "trans": [
             "for 型循环"
         ]
     },
@@ -42,13 +60,13 @@
         ]
     },
     {
-        "name": "TRUE",
+        "name": "True",
         "trans": [
             "真"
         ]
     },
     {
-        "name": "FALSE",
+        "name": "False",
         "trans": [
             "假"
         ]
